@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-maka",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "makajs ESLint 规则",
   "main": "index",
   "files": [
